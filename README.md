@@ -22,6 +22,7 @@ Lose Condition: Lose a life if Pacman collides with a ghost. The game ends when 
 2. Press 'S' to start the game.
 3. To move use arrow key(left,right,up & down).
 
-![image](https://github.com/amisoumyadeepdas/Pacman_Game/assets/109064628/f6e3e19d-c736-4934-927d-8dafb07f6cac)
+![Screenshot 2024-05-14 003616](https://github.com/amisoumyadeepdas/Pacman_Byter/assets/109064628/d1d48205-7bce-417a-a657-9f488cc75c70)
+
 # 
 Feel free to customize this template with specific details about your Pacman Remake project!
